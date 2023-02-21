@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "pexels-deepu-b-iyer-40465.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "pexels-deepu-b-iyer-40465@2x.jpg",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "pexels-deepu-b-iyer-40465@3x.jpg",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

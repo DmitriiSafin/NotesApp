@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		286F25BE29C5D6830018B7F8 /* appWork.gif in Resources */ = {isa = PBXBuildFile; fileRef = 286F25BD29C5D6830018B7F8 /* appWork.gif */; };
+		286F25C029C5D78C0018B7F8 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 286F25BF29C5D78C0018B7F8 /* README.md */; };
 		28C5C59B29A36C6500AAE23B /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 28C5C59A29A36C6500AAE23B /* AppDelegate.swift */; };
 		28C5C59D29A36C6500AAE23B /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 28C5C59C29A36C6500AAE23B /* SceneDelegate.swift */; };
 		28C5C59F29A36C6500AAE23B /* MainViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 28C5C59E29A36C6500AAE23B /* MainViewController.swift */; };
@@ -20,6 +21,7 @@
 
 /* Begin PBXFileReference section */
 		286F25BD29C5D6830018B7F8 /* appWork.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = appWork.gif; sourceTree = "<group>"; };
+		286F25BF29C5D78C0018B7F8 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		28C5C59729A36C6500AAE23B /* NotesApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = NotesApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		28C5C59A29A36C6500AAE23B /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		28C5C59C29A36C6500AAE23B /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -54,6 +56,7 @@
 		28C5C58E29A36C6500AAE23B = {
 			isa = PBXGroup;
 			children = (
+				286F25BF29C5D78C0018B7F8 /* README.md */,
 				286F25BC29C5D6770018B7F8 /* ReadmeResources */,
 				28C5C59929A36C6500AAE23B /* NotesApp */,
 				28C5C59829A36C6500AAE23B /* Products */,
@@ -144,6 +147,7 @@
 			files = (
 				28C5C5A729A36C6600AAE23B /* LaunchScreen.storyboard in Resources */,
 				28C5C5A429A36C6600AAE23B /* Assets.xcassets in Resources */,
+				286F25C029C5D78C0018B7F8 /* README.md in Resources */,
 				28C5C5A229A36C6500AAE23B /* Main.storyboard in Resources */,
 				286F25BE29C5D6830018B7F8 /* appWork.gif in Resources */,
 			);

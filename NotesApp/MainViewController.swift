@@ -46,7 +46,7 @@ extension MainViewController {
             }
         case "add":
             let detailVC = segue.destination as! DetailViewController
-            let noteAdd = NoteModel(note: "Your note", noteDetails: "Here you can write the details")
+            let noteAdd = NoteModel(note: "", noteDetails: "Here you can write the details")
             detailVC.note = noteAdd
         default:
             break
